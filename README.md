@@ -1,1 +1,3 @@
-# ay2022-23_cs3219_otot_taska1
+# AY2022/23 CS3219 Task A1 Sample Node App
+
+This is a sample node app that renders index.html. Your task is to dockerise this app and run it as an image.
